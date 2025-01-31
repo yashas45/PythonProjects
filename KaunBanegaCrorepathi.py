@@ -1,7 +1,7 @@
 questions=[
     ["Which programming language is used to create instagram","Python","Java","HTML","CSS",1],
 
-    ["Which programming language is used to create instagram", "Python", "Java", "HTML", "CSS", 1],
+    ["Which programming language is used to create facebook", "Python", "Java", "HTML", "CSS", 2],
 
     ["Which programming language is used to create instagram", "Python", "Java", "HTML", "CSS", 1],
 
