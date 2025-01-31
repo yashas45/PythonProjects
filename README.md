@@ -1,1 +1,1 @@
-This is a project Named KaunBanegaCrorepathi
+This is a project named KaunBanegaCrorepathi
